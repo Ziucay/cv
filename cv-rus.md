@@ -22,7 +22,17 @@
 Также знаком с C#(Unity), C++, Python.
 
 ## Обо мне
-Мне интересно работать над проектами, которые полезны людям. При необходимости готов самостоятельно изучить новые для меня технологии.
+Имею опыт с Java\Kotlin, PostgreSQL, Maven, liquibase, mybatis, Spring Boot, JUnit, GitHub,
+GitLab, Docker.
+Также знаком с C#(Unity), C++, Python.
+Опыт в unity около года. Знаком с Scriptable Objects, Shader Graph, умею работать с UI, и с
+другими базовыми компонентами движка. Имею опыт разработки под Android. С гитом
+знаком, активно пользуюсь
+Также есть опыт интеграции разных внешних систем: firebase, onesignal, имел опыт с
+External Dependency Manager (https://github.com/googlesamples/unity-jar-resolver), webview
+(https://github.com/gree/unity-webview). Немного пробовал писать на LeoECS
+Мне интересно работать над проектами, которые полезны людям. При необходимости готов
+самостоятельно изучить новые для меня технологии.
 
 ## Образование
 
